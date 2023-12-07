@@ -35,3 +35,5 @@ The Seam Carving algorithm is used for resizing images, specifically reducing th
 ### Improvement 2
 
 Overlap the copy input, grayscale, and convolution steps into n streams (where n is a parameter).
+
+### See full report at SeamCarving.ipynb
